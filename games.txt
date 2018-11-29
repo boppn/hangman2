@@ -1,0 +1,18 @@
+Cat;Meow
+Dog;Woof
+Pirate;Ahoy!
+Washington;First President
+Jupiter;Largest planet in the Solar System
+Istanbul;First Byzantium, then Constantinople, and now...
+Wright;These brothers invented the airplane
+Columbus;Sailed the ocean blue
+Entropy;A measure of disorder
+Java;The programming language this application was made in
+Esperanto;Probably the most well-known constructed language
+Eiffel;French artists protested against the construction of this tower
+Singapore;The capital city of Singapore
+Hanoi;The capital city of Vietnam
+Brussels;The capital city of Belgium
+Helsinki;The capital city of Finland
+Abuja;The capital city of Nigeria
+Berlin;The western half of this city was surrounded by a wall in recent history
